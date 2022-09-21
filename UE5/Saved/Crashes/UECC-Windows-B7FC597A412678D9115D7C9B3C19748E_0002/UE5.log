@@ -1,0 +1,1441 @@
+﻿Log file open, 09/21/22 13:30:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5628)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE5
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/EpicLib/UEProj/UE5_Oui/UE5/UE5.uproject -EpicPortal -epicusername=yannakin68 -epicuserid=69bd33dd1b934998adc202a34c22fe07 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (20H2) [10.0.19042.1706] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="52b6ffa845007bd0a6f101b6f18454b9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.363004
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B7FC597A412678D9115D7C9B3C19748E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.19 seconds
+LogConfig: Display: Loading Android ini files took 0.19 seconds
+LogConfig: Display: Loading IOS ini files took 0.19 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.20 seconds
+LogConfig: Display: Loading Unix ini files took 0.23 seconds
+LogConfig: Display: Loading TVOS ini files took 0.24 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Linux ini files took 0.27 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.27 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (20H2) [10.0.19042.1706] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=yannakin68 -epicuserid=69bd33dd1b934998adc202a34c22fe07 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: E:/EpicLib/UE/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.21-11.30.07:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.21-11.30.07:393][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.21-11.30.07:393][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.21-11.30.07:393][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.21-11.30.07:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.21-11.30.07:395][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.21-11.30.07:395][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.21-11.30.07:396][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.21-11.30.07:399][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.21-11.30.07:480][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.21-11.30.07:480][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.21-11.30.08:248][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.21-11.30.08:248][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 1 output[s]
+[2022.09.21-11.30.08:304][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.09.21-11.30.08:304][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 1 output[s]
+[2022.09.21-11.30.08:317][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.21-11.30.08:317][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 0 output[s]
+[2022.09.21-11.30.08:317][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.21-11.30.08:317][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.21-11.30.08:317][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.21-11.30.08:317][  0]LogHAL: Display: Platform has ~ 16 GB [16992149504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.21-11.30.08:317][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.21-11.30.08:317][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.21-11.30.08:317][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.21-11.30.08:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.21-11.30.08:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/EpicLib/UEProj/UE5_Oui/UE5/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.21-11.30.08:317][  0]LogInit: Computer: YANNAKINGAMERBU
+[2022.09.21-11.30.08:317][  0]LogInit: User: yannakin
+[2022.09.21-11.30.08:317][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.21-11.30.08:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.21-11.30.08:317][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.09.21-11.30.08:317][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.21-11.30.08:317][  0]LogMemory: Process Physical Memory: 274.30 MB used, 281.34 MB peak
+[2022.09.21-11.30.08:317][  0]LogMemory: Process Virtual Memory: 229.02 MB used, 229.02 MB peak
+[2022.09.21-11.30.08:317][  0]LogMemory: Physical Memory: 12381.08 MB used,  3823.89 MB free, 16204.98 MB total
+[2022.09.21-11.30.08:317][  0]LogMemory: Virtual Memory: 20520.50 MB used,  9310.84 MB free, 29831.35 MB total
+[2022.09.21-11.30.08:317][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.21-11.30.08:321][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.21-11.30.08:338][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.21-11.30.08:339][  0]LogInit: Using OS detected language (en-US).
+[2022.09.21-11.30.08:339][  0]LogInit: Using OS detected locale (en-GB).
+[2022.09.21-11.30.08:342][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.21-11.30.08:496][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (World) - (Keyboard).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Speech Recognition (TSF IME).
+[2022.09.21-11.30.08:508][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.21-11.30.08:548][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.21-11.30.08:548][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.21-11.30.08:723][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.21-11.30.08:743][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.21-11.30.08:743][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.21-11.30.08:867][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.21-11.30.09:060][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.21-11.30.09:070][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.21-11.30.09:091][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.21-11.30.09:160][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.21-11.30.09:160][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.21-11.30.09:198][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.21-11.30.09:198][  0]LogWindows: Attached monitors:
+[2022.09.21-11.30.09:198][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY1'
+[2022.09.21-11.30.09:198][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY4' [PRIMARY]
+[2022.09.21-11.30.09:198][  0]LogWindows: Found 2 attached monitors.
+[2022.09.21-11.30.09:198][  0]LogWindows: EnumDisplayDevices:
+[2022.09.21-11.30.09:198][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.09.21-11.30.09:198][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.21-11.30.09:198][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.21-11.30.09:198][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY4'
+[2022.09.21-11.30.09:199][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.09.21-11.30.09:199][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.09.21-11.30.09:199][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.21-11.30.09:199][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.21-11.30.09:199][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.09.21-11.30.09:199][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.21-11.30.09:199][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.09.21-11.30.09:199][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.09.21-11.30.09:199][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.21-11.30.09:199][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.21-11.30.09:248][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.21-11.30.09:255][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/EpicLib/UEProj/UE5_Oui/UE5/UE5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/EpicLib/UEProj/UE5_Oui/UE5/Intermediate/TurnkeyReport_0.log" -log="E:/EpicLib/UEProj/UE5_Oui/UE5/Intermediate/TurnkeyLog_0.log" -project="E:/EpicLib/UEProj/UE5_Oui/UE5/UE5.uproject"  -platform=all'
+[2022.09.21-11.30.09:255][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/EpicLib/UE/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/EpicLib/UEProj/UE5_Oui/UE5/UE5.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/EpicLib/UEProj/UE5_Oui/UE5/Intermediate/TurnkeyReport_0.log" -log="E:/EpicLib/UEProj/UE5_Oui/UE5/Intermediate/TurnkeyLog_0.log" -project="E:/EpicLib/UEProj/UE5_Oui/UE5/UE5.uproject"  -platform=all" ]
+[2022.09.21-11.30.09:281][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.21-11.30.09:290][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.21-11.30.09:290][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.21-11.30.09:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.21-11.30.09:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.21-11.30.09:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.21-11.30.09:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.21-11.30.09:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.21-11.30.09:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.21-11.30.09:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.21-11.30.09:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.21-11.30.09:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.21-11.30.09:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.21-11.30.09:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.21-11.30.09:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.21-11.30.09:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.21-11.30.09:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.21-11.30.09:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.21-11.30.09:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.21-11.30.09:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.21-11.30.09:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.21-11.30.09:332][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.21-11.30.09:341][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.21-11.30.09:345][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.21-11.30.09:345][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.21-11.30.09:345][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.21-11.30.09:345][  0]LogTargetPlatformManager:   PCM
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager:   BINKA
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager:   OGG
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.21-11.30.09:348][  0]LogTargetPlatformManager:   OPUS
+[2022.09.21-11.30.09:395][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.21-11.30.09:403][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.21-11.30.09:406][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.21-11.30.09:407][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.21-11.30.09:407][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UEProj/UE5_Oui/UE5/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.21-11.30.09:508][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.21-11.30.09:509][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UEProj/UE5_Oui/UE5/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.21-11.30.09:560][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.21-11.30.09:564][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UEProj/UE5_Oui/UE5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.21-11.30.09:564][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.21-11.30.09:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UEProj/UE5_Oui/UE5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.21-11.30.09:565][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.21-11.30.09:588][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.21-11.30.09:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.21-11.30.09:589][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.21-11.30.09:599][  0]LogDerivedDataCache: Speed tests for C:/Users/yanna/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.21-11.30.09:599][  0]LogDerivedDataCache: Display: Performance to C:/Users/yanna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=895.14MBs, RandomWriteSpeed=111.72MBs. Assigned SpeedClass 'Local'
+[2022.09.21-11.30.09:607][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yanna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.21-11.30.09:607][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.21-11.30.09:607][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.21-11.30.09:615][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.21-11.30.09:615][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.21-11.30.09:616][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../UEProj/UE5_Oui/UE5/Intermediate/Shaders/WorkingDirectory/11556/).
+[2022.09.21-11.30.09:616][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yanna/AppData/Local/Temp/UnrealShaderWorkingDir/48B16BAD45D453247ACF0AB1A6929C74/'.
+[2022.09.21-11.30.09:616][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.21-11.30.09:617][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.09.21-11.30.11:066][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.21-11.30.11:066][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.21-11.30.11:066][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.21-11.30.11:107][  0]LogAssetRegistry: FAssetRegistry took 0.0128 seconds to start up
+[2022.09.21-11.30.11:111][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.21-11.30.11:286][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.21-11.30.11:287][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.21-11.30.11:678][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.21-11.30.11:678][  0]LogDeviceProfileManager: Active device profile: [00000790CA39FDC0][00000790BE707800 50] WindowsEditor
+[2022.09.21-11.30.11:678][  0]LogDeviceProfileManager: Profiles: [00000790CA21FC00][00000790BE702800 50] Windows, [00000790CA39FDC0][00000790BE707800 50] WindowsEditor, [00000790CA21C780][00000790BE700000 50] WindowsServer, [00000790CA21CB00][00000790BE61A000 50] WindowsClient, [00000790CA21DC80][00000790BE70A000 50] IOS, [00000790CA21F880][00000790CAD60000 50] iPadAir2, [00000790CAD80A80][00000790CAD67800 50] IPadPro, [00000790CAD80E00][00000790CAD65000 50] iPadAir3, [00000790CAD824C0][00000790CAD6A000 50] iPadAir4, [00000790CAD81340][00000790CAD6C800 50] iPadMini4, [00000790CAD82840][00000790AC725000 50] iPadMini5, [00000790CAD80C40][00000790CAD40000 50] iPadMini6, [00000790CAD871C0][00000790CAD4A000 50] iPhone6S, [00000790CAD87540][00000790CAD47800 50] iPhone7, [00000790CAD878C0][00000790CAD45000 50] iPodTouch7, [00000790CAD81180][00000790CAD4C800 50] iPhone6SPlus, [00000790CAD81DC0][00000790CAD62800 50] iPhone7Plus, [00000790CAD87380][00000790CAD10000 50] iPhoneSE, [00000790CAD801C0][00000790CAD15000 50] iPhone8, [00000790CAD84EC0][00000790CAD17800 50] iPhone8Plus, [00000790CAD85E80][00000790CAD1A000 50] iPhoneX, [00000790CAD839C0][00000790CAD1C800 50] iPhoneXS, [00000790CAD82BC0][00000790CAD42800 50] iPhoneXSMax, [00000790CAD83480][00000790CAD90000 50] iPhoneXR, [00000790CAD86200][00000790CAD95000 50] iPhone11, [00000790CAD83D40][00000790CAD97800 50] iPhone11Pro, [00000790CAD81A40][00000790CAD9A000 50] iPhone11ProMax, [00000790CAD84B40][00000790CAD9C800 50] iPhoneSE2, [00000790CAD85780][00000790CAD12800 50] iPhone12Mini, [00000790CAD83100][00000790CADA0000 50] iPhone12, [00000790CAD81880][00000790CADA5000 50] iPhone12Pro, [00000790CAD82D80][00000790CADA7800 50] iPhone12ProMax, [00000790CAD86580][00000790CADAA000 50] iPhone13Mini, [00000790CAD85080][00000790CADAC800 50] iPhone13, [00000790CAD808C0][00000790CAD92800 50] iPhone13Pro, [00000790CAD87700][00000790CADB0000 50] iPhone13ProMax, [00000790CAD855C0][00000790CADB5000 50] iPadPro105, [00000790CAD85240][00000790CADB7800 50] iPadPro129, [00000790CAD81C00][00000790CADBA000 50] iPadPro97, [00000790CAD84600][00000790CADBC800 50] iPadPro2_129, [00000790CAD86C80][00000790CADA2800 50] iPad5, [00000790CAD87C40][00000790CADD0000 50] iPad6, [00000790CAD87000][00000790CADD5000 50] iPad7, [00000790CAD80700][00000790CADD7800 50] iPad8, [00000790CAD840C0][00000790CADDA000 50] iPad9, [00000790CAD847C0][00000790CADDC800 50] iPadPro11, [00000790CAD80FC0][00000790CADB2800 50] iPadPro2_11, [00000790CAD86040][00000790CAD20000 50] iPadPro3_11, [00000790CAD85CC0][00000790CAD25000 50] iPadPro3_129, [00000790CAD85B00][00000790CAD27800 50] iPadPro4_129, [00000790CAD84280][00000790CAD2A000 50] iPadPro5_129, [00000790CAD81F80][00000790CAD2C800 50] AppleTV, [00000790CAD82F40][00000790CADD2800 50] AppleTV4K, [00000790CAD82680][00000790CADF0000 50] TVOS, [00000790CAD89680][00000790CADF7800 50] Mac, [00000790CAD89A00][00000790CADF5000 50] MacEditor, [00000790CAD89BC0][00000790CADFA000 50] MacClient, [00000790CAD816C0][00000790CADFC800 50] MacServer, [00000790CAD89D80][00000790CAE10000 50] Linux, [00000790CAD8A100][00000790CAE12800 50] LinuxEditor, [00000790CAD83800][00000790CAE17800 50] LinuxArm64Editor, [00000790CAD88A40][00000790CAE1A000 50] LinuxArm64, [00000790CAD87E00][00000790CAE1C800 50] LinuxClient, [00000790CAD83B80][00000790CAD22800 50] LinuxArm64Client, [00000790CAD863C0][00000790CAE15000 50] LinuxServer, [00000790CAD82300][00000790CAE00000 50] LinuxArm64Server, [00000790CAD8A480][00000790CAE05000 50] Android, [00000790CAD81500][00000790CAE07800 50] Android_Preview_OpenGL, [00000790CAD88180][00000790CAE0A000 50] Android_Preview_Vulkan, [00000790CAD80380][00000790CAE0C800 50] Android_Low, [00000790CAD88500][00000790CADF2800 50] Android_Mid, [00000790CAD83F00][00000790CAE20000 50] Android_High, [00000790CAD832C0][00000790CAE25000 50] Android_Default, [00000790CAD84440][00000790CAE27800 50] Android_Adreno4xx, [00000790CAD86900][00000790CAE2A000 50] Android_Adreno5xx_Low, [00000790CAD88340][00000790CAE2C800 50] Android_Adreno5xx, [00000790CAD87FC0][00000790CAE02800 50] Android_Adreno6xx, [00000790CAD86E40][00000790CAE30000 50] Android_Adreno6xx_Vulkan, [00000790CAD886C0][00000790CAE35000 50] Android_Adreno7xx, [00000790CAD89140][00000790CAE37800 50] Android_Adreno7xx_Vulkan, [00000790CAD80540][00000790CAE3A000 50] Android_Mali_T6xx, [00000790CAD85400][00000790CAE3C800 50] Android_Mali_T7xx, [00000790CAD8A9C0][00000790CAE22800 50] Android_Mali_T8xx, [00000790CAD84D00][00000790CADE0000 50] Android_Mali_G71, [00000790CAD8AF00][00000790CADE5000 50] Android_Mali_G72, [00000790CAD8AB80][00000790CADE7800 50] Android_Mali_G72_Vulkan, [00000790CAD8B980][00000790CADEA000 50] Android_Mali_G76, [00000790CAD89840][00000790CADEC800 50] Android_Mali_G76_Vulkan, [00000790CAD8AD40][00000790CAE32800 50] Android_Mali_G77, [00000790CAD894C0][00000790CAE40000 50] Android_Mali_G77_Vulkan, [00000790CAD89F40][00000790CAE45000 50] Android_Mali_G78, [00000790CAD89300][00000790CAE47800 50] Android_Mali_G78_Vulkan, [00000790CAD8BD00][00000790CAE4A000 50] Android_Mali_G710, [00000790CAD80000][00000790CAE4C800 50] Android_Mali_G710_Vulkan, [00000790CAD8C940][00000790CADE2800 50] Android_Xclipse_920, [00000790CAD8B440][00000790CAE50000 50] Android_Xclipse_920_Vulkan, [00000790CAD88C00][00000790CAE55000 50] Android_Vulkan_SM5, [00000790CAD88DC0][00000790CAE57800 50] Android_PowerVR_G6xxx, [00000790CAD8B600][00000790CAE5A000 50] Android_PowerVR_GT7xxx, [00000790CAD8C780][00000790CAE5C800 50] Android_PowerVR_GE8xxx, [00000790CAD8CCC0][00000790CAE42800 50] Android_PowerVR_GM9xxx, [00000790CAD8B0C0][00000790CAE60000 50] Android_PowerVR_GM9xxx_Vulkan, [00000790CAD8D900][00000790CAE65000 50] Android_TegraK1, [00000790CAD8C240][00000790CAE67800 50] Android_Unknown_Vulkan, [00000790CAD8B7C0][00000790CAE6A000 50] Oculus_Quest, [00000790CAD8BEC0][00000790CAE6C800 50] Oculus_Quest2, [00000790CAD8D580][00000790CAE52800 50] HoloLens, 
+[2022.09.21-11.30.11:678][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.21-11.30.11:682][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.21-11.30.11:839][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.21-11.30.12:063][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.21-11.30.12:063][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.21-11.30.12:063][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.21-11.30.12:063][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.21-11.30.12:063][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.21-11.30.12:081][  0]LogNetVersion: UE5 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1372574217)
+[2022.09.21-11.30.12:223][  0]LogSlate: Border
+[2022.09.21-11.30.12:223][  0]LogSlate: BreadcrumbButton
+[2022.09.21-11.30.12:223][  0]LogSlate: Default
+[2022.09.21-11.30.12:223][  0]LogSlate: Icons.Save
+[2022.09.21-11.30.12:223][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.21-11.30.12:223][  0]LogSlate: ListView
+[2022.09.21-11.30.12:223][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.21-11.30.12:223][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.21-11.30.12:223][  0]LogSlate: TableView.DarkRow
+[2022.09.21-11.30.12:223][  0]LogSlate: TableView.Row
+[2022.09.21-11.30.12:223][  0]LogSlate: TreeView
+[2022.09.21-11.30.12:681][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.12:848][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.12:849][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.12:973][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.21-11.30.12:973][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.21-11.30.12:973][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.21-11.30.13:528][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AFFFBFF1468959D41BC66FA560694C09 | Instance: 2A9AC46B4916669A2EA86B8AF032AF35 (YANNAKINGAMERBU-11556).
+[2022.09.21-11.30.13:559][  0]LogPython: Using Python 3.9.7
+[2022.09.21-11.30.14:485][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.21-11.30.14:492][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.21-11.30.14:568][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.14:571][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.14:580][  0]SourceControl: Source control is disabled
+[2022.09.21-11.30.14:589][  0]LogUProjectInfo: Found projects:
+[2022.09.21-11.30.15:744][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.21-11.30.15:813][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.21-11.30.15:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.21-11.30.15:824][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.21-11.30.15:916][  0]LogCollectionManager: Loaded 0 collections in 0.002114 seconds
+[2022.09.21-11.30.15:999][  0]LogFileCache: Scanning file cache for directory 'E:/EpicLib/UEProj/UE5_Oui/UE5/Saved/Collections/' took 0.00s
+[2022.09.21-11.30.15:999][  0]LogFileCache: Scanning file cache for directory 'E:/EpicLib/UEProj/UE5_Oui/UE5/Content/Developers/yannakin/Collections/' took 0.00s
+[2022.09.21-11.30.15:999][  0]LogFileCache: Scanning file cache for directory 'E:/EpicLib/UEProj/UE5_Oui/UE5/Content/Collections/' took 0.00s
+[2022.09.21-11.30.16:797][  0]LogEngine: Initializing Engine...
+[2022.09.21-11.30.16:978][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.21-11.30.17:007][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.21-11.30.17:304][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.21-11.30.17:304][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-11.30.17:317][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-11.30.17:351][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.21-11.30.17:352][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.21-11.30.17:379][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.21-11.30.17:379][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.21-11.30.17:379][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-11.30.17:380][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-11.30.17:380][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-11.30.17:391][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-11.30.17:481][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.09.21-11.30.17:481][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-11.30.17:483][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-11.30.17:483][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-11.30.17:483][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.21-11.30.17:483][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-11.30.17:485][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-11.30.17:485][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.21-11.30.17:485][  0]LogInit: FAudioDevice initialized.
+[2022.09.21-11.30.17:485][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.21-11.30.17:485][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.21-11.30.17:485][  0]LogInit: Texture streaming: Enabled
+[2022.09.21-11.30.17:528][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.21-11.30.17:540][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.21-11.30.17:568][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.21-11.30.17:582][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.21-11.30.17:582][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.21-11.31.22:115][  0]LogLiveCoding: Display: First instance in process group "UE_UE5_0xf3a1ec8d", spawning console
+[2022.09.21-11.31.22:115][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.21-11.31.22:115][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.21-11.31.22:779][  0]LogInit: Transaction tracking system initialized
+[2022.09.21-11.31.22:874][  0]BlueprintLog: New page: Editor Load
+[2022.09.21-11.31.23:149][  0]LocalizationService: Localization service is disabled
+[2022.09.21-11.31.23:290][  0]TimingProfiler: Initialize
+[2022.09.21-11.31.23:290][  0]TimingProfiler: OnSessionChanged
+[2022.09.21-11.31.23:290][  0]LoadingProfiler: Initialize
+[2022.09.21-11.31.23:290][  0]LoadingProfiler: OnSessionChanged
+[2022.09.21-11.31.23:290][  0]NetworkingProfiler: Initialize
+[2022.09.21-11.31.23:290][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.21-11.31.23:290][  0]MemoryProfiler: Initialize
+[2022.09.21-11.31.23:290][  0]MemoryProfiler: OnSessionChanged
+[2022.09.21-11.31.25:833][  0]LogFileCache: Scanning file cache for directory 'E:/EpicLib/UEProj/UE5_Oui/UE5/Content/' took 0.10s
+[2022.09.21-11.31.25:833][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.21-11.31.25:916][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.21-11.31.25:918][  0]SourceControl: Source control is disabled
+[2022.09.21-11.31.25:919][  0]LogUnrealEdMisc: Loading editor; pre map load, took 81.203
+[2022.09.21-11.31.25:919][  0]Cmd: MAP LOAD FILE="../../../../../UEProj/UE5_Oui/UE5/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.21-11.31.25:943][  0]LightingResults: New page: Lighting Build
+[2022.09.21-11.31.25:951][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-11.31.25:951][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-11.31.25:951][  0]MapCheck: New page: Map Check
+[2022.09.21-11.31.25:951][  0]LightingResults: New page: Lighting Build
+[2022.09.21-11.31.25:957][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.21-11.31.26:001][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.21-11.31.34:738][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.09.21-11.31.34:748][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-11.31.34:748][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.09.21-11.31.34:749][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.21-11.31.34:749][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.21-11.31.35:348][  0]LogWorldPartition: Display: WorldPartition initialize took 599 ms
+[2022.09.21-11.31.35:569][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.21-11.31.35:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.21-11.31.35:578][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.21-11.31.35:578][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2022.09.21-11.31.35:578][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 9.660
+[2022.09.21-11.31.35:629][  0]LogUnrealEdMisc: Total Editor Startup Time, took 90.914
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: ================================================
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.21-11.31.35:630][  0]LogShaderCompilers: Display: ================================================
+[2022.09.21-11.31.36:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-11.31.36:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-11.31.36:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-11.31.36:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-11.31.37:790][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:791][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:819][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:819][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:828][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:828][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:839][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:839][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:860][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:860][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:867][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:867][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:873][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:873][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:879][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:879][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:885][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:885][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:892][  0]LogPakFile: Display: Mounted Pak file 'E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.21-11.31.37:892][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.21-11.31.37:893][  0]LogFeaturePack: Error: Error in Feature pack E:/EpicLib/UE/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.21-11.31.46:217][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.21-11.31.47:006][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.21-11.31.48:618][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.21-11.31.48:636][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.21-11.31.48:760][  0]LogSlate: Took 0.010951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.21-11.31.48:794][  0]LogSlate: Took 0.025857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.21-11.31.49:050][  0]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.21-11.31.50:860][  0]LogStall: Startup...
+[2022.09.21-11.31.50:862][  0]LogStall: Startup complete.
+[2022.09.21-11.31.50:893][  0]LogLoad: (Engine Initialization) Total time: 106.18 seconds
+[2022.09.21-11.31.50:894][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.21-11.31.51:215][  0]LogAssetRegistry: Asset discovery search completed in 100.1099 seconds
+[2022.09.21-11.31.51:219][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.21-11.31.51:273][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.21-11.32.10:408][ 58]LogDerivedDataCache: C:/Users/yanna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.663 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.21-12.15.05:292][980]LogSlate: Took 0.052929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.21-12.15.05:602][980]LogSlate: Took 0.014852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.21-12.15.07:553][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.09.21-12.15.12:954][ 73]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Maze.Maze
+[2022.09.21-12.15.12:963][ 73]Cmd: MAP LOAD FILE="../../../../../UEProj/UE5_Oui/UE5/Content/Levels/Maze.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.21-12.15.12:964][ 73]LightingResults: New page: Lighting Build
+[2022.09.21-12.15.12:964][ 73]LoadErrors: New page: Loading map: Maze.umap
+[2022.09.21-12.15.13:025][ 73]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.15.13:033][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.15.13:131][ 73]MapCheck: New page: Map Check
+[2022.09.21-12.15.13:131][ 73]LightingResults: New page: Lighting Build
+[2022.09.21-12.15.13:219][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.21-12.15.13:265][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.21-12.15.13:311][ 73]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.15.13:373][ 73]LogWorld: UWorld::CleanupWorld for Maze, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.15.13:390][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.15.13:442][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.21-12.15.13:450][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.21-12.15.13:777][ 73]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maze'.
+[2022.09.21-12.15.13:780][ 73]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-12.15.13:780][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.15.13:780][ 73]LogAIModule: Creating AISystem for world Maze
+[2022.09.21-12.15.29:534][ 73]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.21-12.15.29:534][ 73]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [9464ms] waiting for h/w. InstanceID=1
+[2022.09.21-12.15.29:534][ 73]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.036544s
+[2022.09.21-12.15.29:627][ 73]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.21-12.15.29:835][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.21-12.15.29:954][ 73]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.21-12.15.29:955][ 73]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.588ms to complete.
+[2022.09.21-12.15.29:955][ 73]LogFileHelpers: Loading map 'Maze' took 16.992
+[2022.09.21-12.15.30:047][ 73]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000868s (0.863732s overbudget)
+[2022.09.21-12.15.30:491][ 74]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11188
+[2022.09.21-12.15.30:556][ 74]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cbfaade8-0bce-44f4-98e4-69f1ea672e9e}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=71.95
+[2022.09.21-12.15.30:561][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-12.15.30:723][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-12.15.30:986][ 75]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.09.21-12.15.52:118][561]LogEditorViewport: Clicking Background
+[2022.09.21-12.18.39:617][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2022.09.21-12.18.39:630][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2022.09.21-12.18.39:671][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_322
+[2022.09.21-12.18.42:702][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2022.09.21-12.18.42:702][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2022.09.21-12.18.42:839][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_323
+[2022.09.21-12.18.56:674][546]Cmd: DUPLICATE
+[2022.09.21-12.18.56:674][546]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.19.49:580][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2022.09.21-12.19.49:580][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2022.09.21-12.19.49:581][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_325
+[2022.09.21-12.19.51:586][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2022.09.21-12.19.51:586][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2022.09.21-12.19.51:589][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_326
+[2022.09.21-12.20.59:853][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.20.59:853][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.20.59:855][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_327
+[2022.09.21-12.21.00:903][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.21.00:903][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.21.00:906][717]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_328
+[2022.09.21-12.22.05:593][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2022.09.21-12.22.05:594][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2022.09.21-12.22.05:595][527]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_329
+[2022.09.21-12.22.07:612][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2022.09.21-12.22.07:612][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2022.09.21-12.22.07:614][628]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_330
+[2022.09.21-12.22.11:011][773]Cmd: TRANSACTION UNDO
+[2022.09.21-12.22.11:262][773]LogEditorTransaction: Undo Move Elements
+[2022.09.21-12.22.12:843][799]Cmd: TRANSACTION UNDO
+[2022.09.21-12.22.12:844][799]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.22.24:649][193]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.09.21-12.22.24:698][193]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum) ...
+[2022.09.21-12.22.24:929][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.22.25:301][193]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.09.21-12.22.26:506][193]LogViewport: Scene viewport resized to 910x538, mode Windowed.
+[2022.09.21-12.22.38:899][558]LogSlate: Window 'SM_Mausoleum' being destroyed
+[2022.09.21-12.22.38:911][558]LogSlate: Window 'SM_Mausoleum' being destroyed
+[2022.09.21-12.22.39:371][558]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.22.39:371][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.22.41:259][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.09.21-12.22.41:259][625]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.09.21-12.22.41:261][625]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_331
+[2022.09.21-12.22.44:782][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.09.21-12.22.44:782][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.09.21-12.22.44:785][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_332
+[2022.09.21-12.25.18:029][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2022.09.21-12.25.18:029][664]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2022.09.21-12.25.18:031][664]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_333
+[2022.09.21-12.25.20:844][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2022.09.21-12.25.20:844][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2022.09.21-12.25.20:847][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_334
+[2022.09.21-12.25.40:758][450]LogDirectoryWatcher: Display: A directory notification failed for 'E:/EpicLib/UEProj/UE5_Oui/UE5/Content/Developers/yannakin/Collections/' because it could not be accessed. Aborting watch request...
+[2022.09.21-12.25.40:838][451]LogDirectoryWatcher: Display: A directory notification failed for 'E:/EpicLib/UEProj/UE5_Oui/UE5/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.09.21-12.25.41:422][460]LogDirectoryWatcher: Display: A directory notification failed for 'E:/EpicLib/UEProj/UE5_Oui/UE5/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.09.21-12.26.28:669][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-12.26.28:669][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-12.26.28:670][396]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_335
+[2022.09.21-12.26.30:135][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-12.26.30:135][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-12.26.30:138][469]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_336
+[2022.09.21-12.26.44:629][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.26.44:629][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.26.44:631][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_337
+[2022.09.21-12.26.44:649][ 28]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03) ...
+[2022.09.21-12.26.47:352][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.26.47:352][169]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.26.47:355][169]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_338
+[2022.09.21-12.27.00:663][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.00:663][693]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.00:665][693]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_339
+[2022.09.21-12.27.07:073][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.07:073][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.07:076][ 14]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_340
+[2022.09.21-12.27.08:144][ 56]Cmd: TRANSACTION UNDO
+[2022.09.21-12.27.08:144][ 56]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.27.12:946][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.12:946][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.12:948][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_341
+[2022.09.21-12.27.16:076][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.16:076][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.27.16:079][356]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_342
+[2022.09.21-12.27.21:552][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.09.21-12.27.21:552][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.09.21-12.27.21:554][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_343
+[2022.09.21-12.27.23:968][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.09.21-12.27.23:968][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.09.21-12.27.23:971][659]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_344
+[2022.09.21-12.27.36:145][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.09.21-12.27.36:145][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.09.21-12.27.36:147][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_345
+[2022.09.21-12.27.37:499][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.09.21-12.27.37:500][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.09.21-12.27.37:502][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_346
+[2022.09.21-12.27.58:269][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2022.09.21-12.27.58:269][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2022.09.21-12.27.58:271][933]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_347
+[2022.09.21-12.28.01:012][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2022.09.21-12.28.01:012][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2022.09.21-12.28.01:015][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_348
+[2022.09.21-12.28.16:808][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2022.09.21-12.28.16:808][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2022.09.21-12.28.16:810][636]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_349
+[2022.09.21-12.28.18:034][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2022.09.21-12.28.18:034][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2022.09.21-12.28.18:037][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_350
+[2022.09.21-12.28.20:606][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2022.09.21-12.28.20:606][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2022.09.21-12.28.20:608][786]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_351
+[2022.09.21-12.28.22:769][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2022.09.21-12.28.22:769][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2022.09.21-12.28.22:771][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_352
+[2022.09.21-12.28.46:640][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2022.09.21-12.28.46:640][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2022.09.21-12.28.46:641][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_353
+[2022.09.21-12.28.47:503][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2022.09.21-12.28.47:503][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2022.09.21-12.28.47:505][834]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_354
+[2022.09.21-12.29.01:168][385]Cmd: TRANSACTION UNDO
+[2022.09.21-12.29.01:168][385]LogEditorTransaction: Undo Move Elements
+[2022.09.21-12.29.01:435][388]Cmd: TRANSACTION UNDO
+[2022.09.21-12.29.01:435][388]LogEditorTransaction: Undo Rotate Elements
+[2022.09.21-12.29.01:652][390]Cmd: TRANSACTION UNDO
+[2022.09.21-12.29.01:652][390]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.29.33:085][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2022.09.21-12.29.33:085][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2022.09.21-12.29.33:087][548]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_355
+[2022.09.21-12.29.35:196][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2022.09.21-12.29.35:196][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2022.09.21-12.29.35:199][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_356
+[2022.09.21-12.30.15:667][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.30.15:667][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.30.15:669][170]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_357
+[2022.09.21-12.30.19:463][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.30.19:463][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.30.19:468][350]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_358
+[2022.09.21-12.31.27:573][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.27:573][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.27:574][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_359
+[2022.09.21-12.31.29:030][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.29:030][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.29:033][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_360
+[2022.09.21-12.31.36:448][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2022.09.21-12.31.36:448][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2022.09.21-12.31.36:450][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_361
+[2022.09.21-12.31.37:741][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2022.09.21-12.31.37:741][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2022.09.21-12.31.37:744][323]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_362
+[2022.09.21-12.31.40:236][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2022.09.21-12.31.40:236][400]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2022.09.21-12.31.40:238][400]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_363
+[2022.09.21-12.31.41:370][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2022.09.21-12.31.41:371][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2022.09.21-12.31.41:373][444]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_364
+[2022.09.21-12.31.46:307][606]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.46:307][606]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.46:308][606]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_365
+[2022.09.21-12.31.47:199][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.47:199][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.09.21-12.31.47:203][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_366
+[2022.09.21-12.32.11:611][563]LogDerivedDataCache: C:/Users/yanna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.992 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.21-12.32.54:820][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2022.09.21-12.32.54:820][ 58]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2022.09.21-12.32.54:822][ 58]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_367
+[2022.09.21-12.33.04:020][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2022.09.21-12.33.04:020][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2022.09.21-12.33.04:023][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_368
+[2022.09.21-12.34.02:877][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2022.09.21-12.34.02:877][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2022.09.21-12.34.02:879][786]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_369
+[2022.09.21-12.34.05:662][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2022.09.21-12.34.05:662][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2022.09.21-12.34.05:666][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_370
+[2022.09.21-12.36.29:310][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2022.09.21-12.36.29:310][271]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2022.09.21-12.36.29:312][271]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_371
+[2022.09.21-12.36.29:330][271]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A) ...
+[2022.09.21-12.36.32:736][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2022.09.21-12.36.32:737][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2022.09.21-12.36.32:741][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_372
+[2022.09.21-12.36.35:837][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2022.09.21-12.36.35:837][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2022.09.21-12.36.35:838][563]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_373
+[2022.09.21-12.36.37:163][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2022.09.21-12.36.37:163][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2022.09.21-12.36.37:167][620]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_393
+[2022.09.21-12.36.43:704][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2022.09.21-12.36.43:704][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2022.09.21-12.36.43:706][788]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_411
+[2022.09.21-12.36.45:071][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2022.09.21-12.36.45:071][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2022.09.21-12.36.45:074][854]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_412
+[2022.09.21-12.37.02:694][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.37.02:694][479]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.37.02:697][479]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_413
+[2022.09.21-12.37.05:815][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.37.05:815][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.37.05:819][613]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_414
+[2022.09.21-12.37.35:774][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.37.35:774][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.37.35:776][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_432
+[2022.09.21-12.37.37:688][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.37.37:688][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.37.37:691][765]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_467
+[2022.09.21-12.38.14:909][143]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.14:909][143]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.14:911][143]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_502
+[2022.09.21-12.38.14:928][143]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand) ...
+[2022.09.21-12.38.16:173][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.16:173][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.16:176][199]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_524
+[2022.09.21-12.38.21:231][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.21:231][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.21:233][377]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_530
+[2022.09.21-12.38.22:628][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.22:629][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.38.22:632][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_537
+[2022.09.21-12.38.26:595][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2022.09.21-12.38.26:595][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2022.09.21-12.38.26:597][562]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_542
+[2022.09.21-12.38.30:624][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2022.09.21-12.38.30:624][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2022.09.21-12.38.30:628][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_543
+[2022.09.21-12.40.06:552][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2022.09.21-12.40.06:552][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2022.09.21-12.40.06:555][314]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_566
+[2022.09.21-12.40.09:398][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2022.09.21-12.40.09:398][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2022.09.21-12.40.09:401][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_567
+[2022.09.21-12.41.55:144][475]Cmd: TRANSACTION UNDO
+[2022.09.21-12.41.55:144][475]LogEditorTransaction: Undo Set Scale
+[2022.09.21-12.41.55:729][484]Cmd: TRANSACTION UNDO
+[2022.09.21-12.41.55:729][484]LogEditorTransaction: Undo Move Elements
+[2022.09.21-12.41.56:315][500]Cmd: TRANSACTION UNDO
+[2022.09.21-12.41.56:316][500]LogEditorTransaction: Undo Scale Elements
+[2022.09.21-12.42.02:172][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.42.02:172][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.42.02:174][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_572
+[2022.09.21-12.42.04:022][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.42.04:022][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.09.21-12.42.04:025][769]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_573
+[2022.09.21-12.42.06:647][867]Cmd: TRANSACTION UNDO
+[2022.09.21-12.42.06:647][867]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.42.10:663][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2022.09.21-12.42.10:663][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2022.09.21-12.42.10:666][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_574
+[2022.09.21-12.42.13:449][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2022.09.21-12.42.13:449][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2022.09.21-12.42.13:452][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_579
+[2022.09.21-12.45.20:497][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2022.09.21-12.45.20:497][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2022.09.21-12.45.20:499][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_580
+[2022.09.21-12.45.22:006][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2022.09.21-12.45.22:006][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2022.09.21-12.45.22:009][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_607
+[2022.09.21-12.45.31:694][794]Cmd: TRANSACTION UNDO
+[2022.09.21-12.45.31:694][794]LogEditorTransaction: Undo Set Scale
+[2022.09.21-12.45.32:569][812]Cmd: TRANSACTION UNDO
+[2022.09.21-12.45.32:569][812]LogEditorTransaction: Undo Set Scale
+[2022.09.21-12.45.33:289][834]Cmd: TRANSACTION UNDO
+[2022.09.21-12.45.33:289][834]LogEditorTransaction: Undo Set Scale
+[2022.09.21-12.46.03:360][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.46.03:360][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.46.03:362][668]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_642
+[2022.09.21-12.46.05:312][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.46.05:312][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.09.21-12.46.05:315][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_696
+[2022.09.21-12.46.14:420][ 73]Cmd: DUPLICATE
+[2022.09.21-12.46.14:420][ 73]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.46.30:404][695]Cmd: DUPLICATE
+[2022.09.21-12.46.30:404][695]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.46.51:082][514]Cmd: DUPLICATE
+[2022.09.21-12.46.51:082][514]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.48.10:446][723]Cmd: MODE GRID=0
+[2022.09.21-12.48.26:022][361]Cmd: MODE GRID=1
+[2022.09.21-12.49.26:688][801]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2022.09.21-12.49.26:688][801]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2022.09.21-12.49.26:690][801]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_849
+[2022.09.21-12.49.31:768][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2022.09.21-12.49.31:768][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2022.09.21-12.49.31:772][ 46]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_850
+[2022.09.21-12.49.32:547][ 75]Cmd: DUPLICATE
+[2022.09.21-12.49.32:547][ 75]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.34:050][130]Cmd: DUPLICATE
+[2022.09.21-12.49.34:050][130]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.43:409][486]Cmd: DUPLICATE
+[2022.09.21-12.49.43:409][486]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.43:585][490]Cmd: DUPLICATE
+[2022.09.21-12.49.43:585][490]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.44:032][506]Cmd: DUPLICATE
+[2022.09.21-12.49.44:032][506]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.44:235][511]Cmd: DUPLICATE
+[2022.09.21-12.49.44:235][511]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.44:451][517]Cmd: DUPLICATE
+[2022.09.21-12.49.44:451][517]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.44:667][523]Cmd: DUPLICATE
+[2022.09.21-12.49.44:667][523]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.44:866][528]Cmd: DUPLICATE
+[2022.09.21-12.49.44:866][528]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.45:416][549]Cmd: DUPLICATE
+[2022.09.21-12.49.45:416][549]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.45:620][554]Cmd: DUPLICATE
+[2022.09.21-12.49.45:620][554]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.45:794][558]Cmd: DUPLICATE
+[2022.09.21-12.49.45:795][558]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.45:984][563]Cmd: DUPLICATE
+[2022.09.21-12.49.45:985][563]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.46:164][567]Cmd: DUPLICATE
+[2022.09.21-12.49.46:164][567]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.46:347][570]Cmd: DUPLICATE
+[2022.09.21-12.49.46:347][570]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.46:516][574]Cmd: DUPLICATE
+[2022.09.21-12.49.46:516][574]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.46:700][576]Cmd: DUPLICATE
+[2022.09.21-12.49.46:701][576]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.49.47:259][595]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.47:259][595]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.47:692][597]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.47:692][597]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:102][598]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:102][598]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:439][599]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:439][599]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:476][599]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:476][599]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:504][599]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:504][599]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:533][599]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:533][599]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:885][600]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:885][600]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.48:918][600]Cmd: TRANSACTION UNDO
+[2022.09.21-12.49.48:918][600]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.49.52:291][697]Cmd: DELETE
+[2022.09.21-12.49.52:380][697]Cmd: ACTOR DELETE
+[2022.09.21-12.49.53:486][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:488][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:489][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:490][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:491][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:492][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:492][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:493][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:493][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.21-12.49.53:661][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.09.21-12.49.53:666][697]LogEditorActor: Deleted 9 Actors (0.370 secs)
+[2022.09.21-12.49.58:442][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2022.09.21-12.49.58:442][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2022.09.21-12.49.58:443][867]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1276
+[2022.09.21-12.50.01:678][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2022.09.21-12.50.01:678][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2022.09.21-12.50.01:681][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1277
+[2022.09.21-12.50.14:764][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2022.09.21-12.50.14:764][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2022.09.21-12.50.14:765][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1278
+[2022.09.21-12.50.15:367][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2022.09.21-12.50.15:368][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2022.09.21-12.50.15:371][571]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1301
+[2022.09.21-12.50.17:946][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2022.09.21-12.50.17:947][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2022.09.21-12.50.17:948][659]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1302
+[2022.09.21-12.50.19:174][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2022.09.21-12.50.19:174][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2022.09.21-12.50.19:177][714]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1303
+[2022.09.21-12.51.52:094][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.51.52:094][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.51.52:096][765]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1304
+[2022.09.21-12.51.53:275][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.51.53:275][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.09.21-12.51.53:278][817]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1307
+[2022.09.21-12.52.08:441][393]Cmd: DUPLICATE
+[2022.09.21-12.52.08:441][393]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.52.31:762][155]Cmd: DUPLICATE
+[2022.09.21-12.52.31:762][155]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.52.55:283][911]Cmd: DUPLICATE
+[2022.09.21-12.52.55:283][911]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.54.00:880][943]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: 6A47A744FDE058996C78307AAC22848F526A5D3C), compiling. 
+[2022.09.21-12.54.01:446][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2022.09.21-12.54.01:446][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2022.09.21-12.54.01:448][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1313
+[2022.09.21-12.54.01:466][943]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded) ...
+[2022.09.21-12.54.02:873][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2022.09.21-12.54.02:874][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2022.09.21-12.54.02:879][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1314
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.09.21-12.54.10:079][135]LogShaderCompilers: Display: Jobs assigned 25, completed 1 (4.00%)
+[2022.09.21-12.54.10:088][135]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2022.09.21-12.54.10:089][135]LogShaderCompilers: Display: Job execution time: average 8.54 s, max 8.54 s
+[2022.09.21-12.54.10:089][135]LogShaderCompilers: Display: Job life time (pending + execution): average 8.55 s, max 8.55
+[2022.09.21-12.54.10:089][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.55 s
+[2022.09.21-12.54.10:089][135]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 3.57 jobs/batch
+[2022.09.21-12.54.10:089][135]LogShaderCompilers: Display: Average processing rate: 0.12 jobs/sec
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display: Effective parallelization: 0.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 3.02 sec, max 3.02 sec, min 3.02 sec)
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 100.00% of total time (compiled    1 times, average 3.02 sec, max 3.02 sec, min 3.02 sec)
+[2022.09.21-12.54.10:099][135]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.55.05:152][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2022.09.21-12.55.05:152][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2022.09.21-12.55.05:154][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1530
+[2022.09.21-12.55.06:568][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2022.09.21-12.55.06:568][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2022.09.21-12.55.06:572][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1531
+[2022.09.21-12.55.09:520][151]Cmd: TRANSACTION UNDO
+[2022.09.21-12.55.09:521][151]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.55.16:234][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-12.55.16:428][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-12.55.16:443][358]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_0
+[2022.09.21-12.55.16:457][358]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_0
+[2022.09.21-12.55.18:344][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-12.55.18:344][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-12.55.18:359][429]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_2
+[2022.09.21-12.55.18:373][429]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_2
+[2022.09.21-12.58.07:928][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.07:928][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.07:930][349]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1532
+[2022.09.21-12.58.09:587][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.09:587][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.09:590][416]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1533
+[2022.09.21-12.58.24:293][944]Cmd: MODE GRID=0
+[2022.09.21-12.58.26:098][997]Cmd: MODE GRID=1
+[2022.09.21-12.58.31:930][209]Cmd: DUPLICATE
+[2022.09.21-12.58.31:931][209]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.58.36:751][393]Cmd: DUPLICATE
+[2022.09.21-12.58.36:751][393]Cmd: ACTOR DUPLICATE
+[2022.09.21-12.58.37:563][416]Cmd: TRANSACTION UNDO
+[2022.09.21-12.58.37:564][416]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.58.38:048][418]Cmd: TRANSACTION UNDO
+[2022.09.21-12.58.38:048][418]LogEditorTransaction: Undo Move Elements
+[2022.09.21-12.58.38:870][456]Cmd: TRANSACTION UNDO
+[2022.09.21-12.58.38:871][456]LogEditorTransaction: Undo Duplicate Elements
+[2022.09.21-12.58.45:282][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.58.45:282][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.58.45:283][648]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1808
+[2022.09.21-12.58.47:764][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.58.47:764][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.09.21-12.58.47:768][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1809
+[2022.09.21-12.58.51:917][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.51:917][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.51:919][890]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1810
+[2022.09.21-12.58.53:288][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.53:288][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.09.21-12.58.53:292][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1811
+[2022.09.21-12.59.02:236][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2022.09.21-12.59.02:236][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2022.09.21-12.59.02:238][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1918
+[2022.09.21-12.59.04:588][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2022.09.21-12.59.04:588][383]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2022.09.21-12.59.04:592][383]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1924
+[2022.09.21-12.59.31:544][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.59.31:544][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.59.31:546][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1927
+[2022.09.21-12.59.35:362][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.59.35:362][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.09.21-12.59.35:365][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1928
+[2022.09.21-12.59.35:902][519]Cmd: TRANSACTION UNDO
+[2022.09.21-12.59.35:902][519]LogEditorTransaction: Undo Create Actors
+[2022.09.21-12.59.40:249][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.59.40:249][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.59.40:251][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1935
+[2022.09.21-12.59.42:701][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.59.42:701][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.09.21-12.59.42:704][749]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1936
+[2022.09.21-13.00.13:688][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-13.00.13:688][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-13.00.13:690][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1937
+[2022.09.21-13.00.15:780][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-13.00.15:780][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.09.21-13.00.15:783][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01 as actor: StaticMeshActor /Game/Levels/Maze.Maze:PersistentLevel.StaticMeshActor_1938
+[2022.09.21-13.00.28:442][537]Cmd: MODE GRID=0
+[2022.09.21-13.00.33:574][729]Cmd: MODE GRID=1
+[2022.09.21-13.02.36:346][350]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-13.02.36:346][350]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-13.02.36:360][350]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_3
+[2022.09.21-13.02.36:377][350]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_3
+[2022.09.21-13.02.38:149][399]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-13.02.38:149][399]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder_C
+[2022.09.21-13.02.38:164][399]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_4
+[2022.09.21-13.02.38:179][399]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Candle_Holder.BP_Candle_Holder as actor: BP_Candle_Holder_C /Game/Levels/Maze.Maze:PersistentLevel.BP_Candle_Holder_C_4
+[2022.09.21-13.02.40:365][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.21-13.02.40:441][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maze" FILE="../../../../../UEProj/UE5_Oui/UE5/Saved/Autosaves/Game/Levels/Maze_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.09.21-13.02.40:495][446]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.010111 seconds
+[2022.09.21-13.05.00:395][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Maze_Auto1
+[2022.09.21-13.05.00:403][446]LogSavePackage: Moving '../../../../../UEProj/UE5_Oui/UE5/Saved/Maze_Auto1497194AC4E8BA6A2B01C808947C3DDE4.tmp' to '../../../../../UEProj/UE5_Oui/UE5/Saved/Autosaves/Game/Levels/Maze_Auto1.umap'
+[2022.09.21-13.05.00:539][446]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maze' took 140.248
+[2022.09.21-13.05.00:539][446]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 140.248
+[2022.09.21-13.06.51:407][998]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.06.51:548][998]LogSlate: Took 0.097960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.21-13.06.51:551][998]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.06.51:600][998]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.06.51:655][998]LogViewport: Scene viewport resized to 1920x1040, mode Windowed.
+[2022.09.21-13.07.17:906][414]LogSlate: Took 0.072614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.21-13.08.30:831][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.30:877][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.30:899][ 75]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2022.09.21-13.08.30:914][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.30:922][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.31:033][ 76]LogViewport: Scene viewport resized to 1170x792, mode Windowed.
+[2022.09.21-13.08.37:843][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.37:853][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.37:863][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.37:872][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.08.37:958][230]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.21-13.09.26:518][741]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.09.26:705][741]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.09.26:745][741]LogViewport: Scene viewport resized to 582x449, mode Windowed.
+[2022.09.21-13.09.26:800][741]LogViewport: Scene viewport resized to 1816x1021, mode Windowed.
+[2022.09.21-13.09.26:830][742]LogViewport: Scene viewport resized to 1920x1040, mode Windowed.
+[2022.09.21-13.09.33:181][917]LogViewport: Scene viewport resized to 1355x936, mode Windowed.
+[2022.09.21-13.09.33:238][918]LogViewport: Scene viewport resized to 1197x907, mode Windowed.
+[2022.09.21-13.09.33:325][919]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.21-13.12.38:780][ 69]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-13.12.39:336][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-13.12.39:344][ 69]PIE: New page: PIE session: Maze (21 Sep 2022, 18:12:39)
+[2022.09.21-13.12.39:542][ 69]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.21-13.12.39:544][ 69]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.21-13.12.39:557][ 69]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Maze
+[2022.09.21-13.12.39:974][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.416233s)
+[2022.09.21-13.12.39:974][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maze.Maze to /Game/Levels/UEDPIE_0_Maze.Maze (0.417418s)
+[2022.09.21-13.12.39:982][ 69]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-13.12.40:027][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-13.12.40:028][ 69]LogAIModule: Creating AISystem for world Maze
+[2022.09.21-13.12.40:048][ 69]LogPlayLevel: PIE: World Init took: (0.066595s)
+[2022.09.21-13.12.40:137][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.21-13.12.40:192][ 69]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.21-13.12.40:225][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-13.12.40:225][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-13.12.40:226][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-13.12.40:226][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-13.12.40:226][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-13.12.40:226][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-13.12.40:226][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-13.12.40:246][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-13.12.40:287][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-13.12.40:287][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-13.12.40:287][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-13.12.40:311][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-13.12.40:393][ 69]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.09.21-13.12.40:423][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-13.12.40:423][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-13.12.40:424][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-13.12.40:438][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.21-13.12.40:438][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.09.21-13.12.40:441][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.21-13.12.40:441][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.21-13.12.40:441][ 69]LogInit: FAudioDevice initialized.
+[2022.09.21-13.12.40:442][ 69]LogAudio: Display: Audio Device (ID: 2) registered with world 'Maze'.
+[2022.09.21-13.12.40:669][ 69]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-13.12.40:911][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Maze.Maze up for play (max tick rate 60) at 2022.09.21-15.12.40
+[2022.09.21-13.12.40:957][ 69]LogWorld: Bringing up level for play took: 0.285628
+[2022.09.21-13.12.40:998][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.09.21-13.12.42:929][ 69]PIE: Server logged in
+[2022.09.21-13.12.42:937][ 69]PIE: Play in editor total start time 3.704 seconds.
+[2022.09.21-13.13.07:634][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.13.07:634][193]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Maze
+[2022.09.21-13.13.07:708][193]LogWorld: UWorld::CleanupWorld for Maze, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-13.13.07:787][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.13.07:863][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-13.13.07:878][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.13.08:070][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.13.08:210][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.21-13.13.08:214][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.21-13.13.08:635][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.09.21-13.13.09:026][194]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.21-13.13.30:095][919]MapCheck: New page: Map Check
+[2022.09.21-13.13.30:312][919]LogSlate: Took 0.040396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.21-13.13.30:346][919]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.21-13.13.30:405][919]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.21-13.13.30:613][919]LogWorld: UWorld::CleanupWorld for Maze, bSessionEnded=true, bCleanupResources=false
+[2022.09.21-13.13.32:172][919]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.21-13.13.32:173][919]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.21-13.13.32:173][919]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.09.21-13.13.32:229][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.09.21-13.13.33:225][919]LogLevel: Display: Export Material TexCoord Scales took 0.974 seconds.
+[2022.09.21-13.13.33:795][919]TextureStreamingBuild: Display: Build Texture Streaming took 0.552 seconds.
+[2022.09.21-13.13.33:845][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.21-13.13.33:905][919]LightingResults: New page: Lighting Build - 21 Sep 2022, 18:13:33
+[2022.09.21-13.13.34:638][919]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.21-13.13.35:344][919]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.21-13.13.35:389][919]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.21-13.13.36:427][919]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.21-13.13.36:427][919]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11556
+[2022.09.21-13.13.43:742][919]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.09.21-13.13.43:790][919]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.21-13.13.43:790][919]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.21-13.13.43:811][919]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.21-13.13.43:811][919]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.21-13.13.43:811][919]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.21-13.13.47:100][919]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.21-13.13.47:100][919]MapCheck: New page: Maze - 21 Sep 2022, 18:13:47
+[2022.09.21-13.13.48:154][919]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,054.683ms to complete.
+[2022.09.21-13.13.48:169][919]LogEditorBuildUtils: Build time 0:17
+[2022.09.21-13.13.48:443][919]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Candles_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 60615BA7E4E1636ED275E855F4954173268F4E4F), compiling. 
+[2022.09.21-13.13.48:468][919]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Candles_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 679EC5F2ABC2610B03F2826CC08C62F249D73271), compiling. 
+[2022.09.21-13.13.48:757][921]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skeleton_Dirty in PCD3D_SM5, Default, SM5 (DDC key hash: 2977A5B1275484C3830FA520F83337D15761EC23), compiling. 
+[2022.09.21-13.13.48:769][921]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Skeleton_Dirty in PCD3D_SM5, Default, SM5 (DDC key hash: CD336706AF3F70A1509BDBB8483AE39721FF1568), compiling. 
+[2022.09.21-13.13.48:816][922]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Chains_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: F3107A3AD33D22140041EA3CB0CC34A643F1E2A6), compiling. 
+[2022.09.21-13.13.48:838][922]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Chains_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: C47E3EDE443FA143B56022709AAFD3071D434386), compiling. 
+[2022.09.21-13.13.48:878][923]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: 3836D02806E86C448D30A47F9D60B05F27A541B8), compiling. 
+[2022.09.21-13.13.48:894][923]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: A06D984432290882B9050A7AF1A97B0E91CE3601), compiling. 
+[2022.09.21-13.14.10:240][924]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.09.21-13.14.10:240][924]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11389ms] waiting for h/w. InstanceID=1
+[2022.09.21-13.14.10:240][924]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049933s
+[2022.09.21-13.14.10:240][924]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.002416s (0.063177s overbudget)
+[2022.09.21-13.14.10:324][924]LogShaderCompilers: Display: ================================================
+[2022.09.21-13.14.10:324][924]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.21-13.14.10:324][924]LogShaderCompilers: Display: Total job queries 43, among them cache hits 2 (4.65%)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 26 distinct outputs (63.41%)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Shaders Compiled: 33
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Jobs assigned 41, completed 41 (100.00%)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Average time worker was idle: 745.83 s
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Time job spent in pending queue: average 0.90 s, longest 9.02 s
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Job execution time: average 16.11 s, max 21.35 s
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Job life time (pending + execution): average 17.01 s, max 21.44
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.70 s
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 2.16 jobs/batch
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Average processing rate: 1.06 jobs/sec
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.72 sec, max 3.72 sec, min 3.72 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 3.49 sec, max 3.49 sec, min 3.49 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 3.03 sec, max 3.03 sec, min 3.03 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 3.02 sec, max 3.02 sec, min 3.02 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.10% of total time (compiled    9 times, average 2.50 sec, max 3.40 sec, min 1.75 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.68% of total time (compiled    9 times, average 2.33 sec, max 2.76 sec, min 2.01 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.49% of total time (compiled    1 times, average 3.72 sec, max 3.72 sec, min 3.72 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.29% of total time (compiled    1 times, average 3.51 sec, max 3.51 sec, min 3.51 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 3.28% of total time (compiled    1 times, average 3.49 sec, max 3.49 sec, min 3.49 sec)
+[2022.09.21-13.14.10:325][924]LogShaderCompilers: Display: ================================================
+[2022.09.21-13.14.10:425][925]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11188
+[2022.09.21-13.14.11:039][926]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cbfaade8-0bce-44f4-98e4-69f1ea672e9e}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=81.33
+[2022.09.21-13.14.11:039][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-13.14.11:041][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-13.14.14:258][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.21-13.19.36:352][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.21-13.19.36:655][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maze" FILE="../../../../../UEProj/UE5_Oui/UE5/Saved/Autosaves/Game/Levels/Maze_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.09.21-13.25.48:344][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Maze_Auto2
+[2022.09.21-13.25.48:373][839]LogSavePackage: Moving '../../../../../UEProj/UE5_Oui/UE5/Saved/Maze_Auto2A98E8DD54DF6DDF6C3BCE5A841D96F05.tmp' to '../../../../../UEProj/UE5_Oui/UE5/Saved/Autosaves/Game/Levels/Maze_Auto2.umap'
+[2022.09.21-13.25.49:074][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maze' took 372.720
+[2022.09.21-13.25.49:075][839]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 372.720
+[2022.09.21-13.28.29:684][318]Job is a success!
+[2022.09.21-13.28.31:151][319]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.101s
+[2022.09.21-13.28.31:151][319]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 5.5Mb due to 0.010000 MinBrickError)
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:          0: 9.5% covering 100.0% of volume
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:          1: 90.5% covering 14.8% of volume
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.21-13.28.31:152][319]LogVolumetricLightmapImport:          Maze 			 84 bricks 	 100.0% (Persistent Level)
+[2022.09.21-13.28.35:564][319]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2022.09.21-13.28.35:565][319]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 1888747520
+	 AvailableVirtual 595697664
+	     UsedPhysical 3602829312
+	 PeakUsedPhysical 7558791168
+	      UsedVirtual 9867849728
+	  PeakUsedVirtual 13375664128
+[2022.09.21-13.28.35:565][319]Allocator Stats for Mimalloc: (not implemented)
+[2022.09.21-13.28.35:573][319]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.09.21-13.28.35:574][319]LogWindows: Windows GetLastError: The operation completed successfully. (0)
